@@ -1,0 +1,15 @@
+C:\Users\ASUS_Core_Ultra\Desktop\CS\BookStore\BookStore.Application\bin\Debug\net8.0\BookStore.Application.deps.json
+C:\Users\ASUS_Core_Ultra\Desktop\CS\BookStore\BookStore.Application\bin\Debug\net8.0\BookStore.Application.dll
+C:\Users\ASUS_Core_Ultra\Desktop\CS\BookStore\BookStore.Application\bin\Debug\net8.0\BookStore.Application.pdb
+C:\Users\ASUS_Core_Ultra\Desktop\CS\BookStore\BookStore.Application\bin\Debug\net8.0\BookStore.Core.dll
+C:\Users\ASUS_Core_Ultra\Desktop\CS\BookStore\BookStore.Application\bin\Debug\net8.0\BookStore.Core.pdb
+C:\Users\ASUS_Core_Ultra\Desktop\CS\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.csproj.AssemblyReference.cache
+C:\Users\ASUS_Core_Ultra\Desktop\CS\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS_Core_Ultra\Desktop\CS\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.AssemblyInfoInputs.cache
+C:\Users\ASUS_Core_Ultra\Desktop\CS\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.AssemblyInfo.cs
+C:\Users\ASUS_Core_Ultra\Desktop\CS\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.csproj.CoreCompileInputs.cache
+C:\Users\ASUS_Core_Ultra\Desktop\CS\BookStore\BookStore.Application\obj\Debug\net8.0\BookStor.D70AE061.Up2Date
+C:\Users\ASUS_Core_Ultra\Desktop\CS\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.dll
+C:\Users\ASUS_Core_Ultra\Desktop\CS\BookStore\BookStore.Application\obj\Debug\net8.0\refint\BookStore.Application.dll
+C:\Users\ASUS_Core_Ultra\Desktop\CS\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.pdb
+C:\Users\ASUS_Core_Ultra\Desktop\CS\BookStore\BookStore.Application\obj\Debug\net8.0\ref\BookStore.Application.dll
